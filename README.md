@@ -1,7 +1,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/wiki/blob/master/LICENSE)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/wiki)
 
-# **Wiki**
+# **Wiki** - Final Project
 
 ## Project #1 for Harvard's CS50's Web Programming with Python and Javascript
 

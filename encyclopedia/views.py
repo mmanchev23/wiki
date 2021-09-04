@@ -5,7 +5,6 @@ from markdown2 import Markdown
 from django.shortcuts import render
 
 
-
 markdowner = Markdown()
 
 def index_view(request):
@@ -31,6 +30,7 @@ def index_view(request):
 
                 if item.lower() in i.lower(): 
                     searched.append(i)
+                    
                     context = {
                         'searched': searched, 
                         'form': Search()

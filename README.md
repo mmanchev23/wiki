@@ -1,9 +1,9 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmanchev23/wiki/blob/master/LICENSE)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mmanchev23/wiki)
 
-# ***Wiki*** - CS50's Project #1
+# ***Wiki*** - Harvard's CS50's Project #1
 
-## Wikipedia-like online encyclopedia. Project #1 from CS50's "Web Programming with Python and JavaScript".
+## Wikipedia-like online encyclopedia. Project #1 from Harvard's CS50's "Web Programming with Python and JavaScript" 2020.
 
 ### ***Technologies***
 <ul>
@@ -31,9 +31,18 @@
         <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     </li>
     <li>
-        IDE - Visual Studio Code
+        Made with Visual Studio Code
         <br/>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    </li>
+    <li>
+        Made on Windows, Fedora Linux and Linux Mint
+        <br/>
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+        <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/>
+        <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
     </li>
 </ul>
 
